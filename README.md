@@ -1,7 +1,7 @@
 # 15-213
 
 - [x] C Programming
-- [ ] Cord
+- [x] Cord
 - [ ] Data
 - [ ] Bomb
 - [ ] Attack
