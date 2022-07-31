@@ -2,7 +2,7 @@
 
 - [x] C Programming
 - [x] Cord
-- [ ] Data
+- [x] Data
 - [ ] Bomb
 - [ ] Attack
 - [ ] Cache
